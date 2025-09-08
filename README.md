@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🏀 NBA Standings Scraper (Demo Project)
 
 ## 📌 Overview
@@ -72,3 +73,7 @@ This scraper is a **portfolio example** of how sports data can be:
 - Integrated into downstream **prediction models**  
 
 It’s a lightweight but powerful demonstration of how I can support sports analytics workflows.  
+=======
+# sports-scraping-demo
+Demo project: Web scraper for NBA standings with JSON output
+>>>>>>> 5b244cfee95428daff16faca06846526a67e75fb
