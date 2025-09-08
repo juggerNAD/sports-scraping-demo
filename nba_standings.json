@@ -1,0 +1,422 @@
+[
+    {
+        "conference": "Confs_E",
+        "team": "Cleveland Cavaliers*",
+        "wins": 64,
+        "losses": 18,
+        "win_pct": 0.78
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Boston Celtics*",
+        "wins": 61,
+        "losses": 21,
+        "win_pct": 0.744
+    },
+    {
+        "conference": "Confs_E",
+        "team": "New York Knicks*",
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Indiana Pacers*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Milwaukee Bucks*",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Detroit Pistons*",
+        "wins": 44,
+        "losses": 38,
+        "win_pct": 0.537
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Orlando Magic*",
+        "wins": 41,
+        "losses": 41,
+        "win_pct": 0.5
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Atlanta Hawks",
+        "wins": 40,
+        "losses": 42,
+        "win_pct": 0.488
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Chicago Bulls",
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Miami Heat*",
+        "wins": 37,
+        "losses": 45,
+        "win_pct": 0.451
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Toronto Raptors",
+        "wins": 30,
+        "losses": 52,
+        "win_pct": 0.366
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Brooklyn Nets",
+        "wins": 26,
+        "losses": 56,
+        "win_pct": 0.317
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Philadelphia 76ers",
+        "wins": 24,
+        "losses": 58,
+        "win_pct": 0.293
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Charlotte Hornets",
+        "wins": 19,
+        "losses": 63,
+        "win_pct": 0.232
+    },
+    {
+        "conference": "Confs_E",
+        "team": "Washington Wizards",
+        "wins": 18,
+        "losses": 64,
+        "win_pct": 0.22
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Oklahoma City Thunder*",
+        "wins": 68,
+        "losses": 14,
+        "win_pct": 0.829
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Houston Rockets*",
+        "wins": 52,
+        "losses": 30,
+        "win_pct": 0.634
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Los Angeles Lakers*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Denver Nuggets*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Los Angeles Clippers*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Minnesota Timberwolves*",
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Golden State Warriors*",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Memphis Grizzlies*",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Sacramento Kings",
+        "wins": 40,
+        "losses": 42,
+        "win_pct": 0.488
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Dallas Mavericks",
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Phoenix Suns",
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Portland Trail Blazers",
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+    },
+    {
+        "conference": "Confs_W",
+        "team": "San Antonio Spurs",
+        "wins": 34,
+        "losses": 48,
+        "win_pct": 0.415
+    },
+    {
+        "conference": "Confs_W",
+        "team": "New Orleans Pelicans",
+        "wins": 21,
+        "losses": 61,
+        "win_pct": 0.256
+    },
+    {
+        "conference": "Confs_W",
+        "team": "Utah Jazz",
+        "wins": 17,
+        "losses": 65,
+        "win_pct": 0.207
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Boston Celtics*",
+        "wins": 61,
+        "losses": 21,
+        "win_pct": 0.744
+    },
+    {
+        "conference": "Divs_E",
+        "team": "New York Knicks*",
+        "wins": 51,
+        "losses": 31,
+        "win_pct": 0.622
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Toronto Raptors",
+        "wins": 30,
+        "losses": 52,
+        "win_pct": 0.366
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Brooklyn Nets",
+        "wins": 26,
+        "losses": 56,
+        "win_pct": 0.317
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Philadelphia 76ers",
+        "wins": 24,
+        "losses": 58,
+        "win_pct": 0.293
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Cleveland Cavaliers*",
+        "wins": 64,
+        "losses": 18,
+        "win_pct": 0.78
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Indiana Pacers*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Milwaukee Bucks*",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Detroit Pistons*",
+        "wins": 44,
+        "losses": 38,
+        "win_pct": 0.537
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Chicago Bulls",
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Orlando Magic*",
+        "wins": 41,
+        "losses": 41,
+        "win_pct": 0.5
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Atlanta Hawks",
+        "wins": 40,
+        "losses": 42,
+        "win_pct": 0.488
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Miami Heat*",
+        "wins": 37,
+        "losses": 45,
+        "win_pct": 0.451
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Charlotte Hornets",
+        "wins": 19,
+        "losses": 63,
+        "win_pct": 0.232
+    },
+    {
+        "conference": "Divs_E",
+        "team": "Washington Wizards",
+        "wins": 18,
+        "losses": 64,
+        "win_pct": 0.22
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Oklahoma City Thunder*",
+        "wins": 68,
+        "losses": 14,
+        "win_pct": 0.829
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Denver Nuggets*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Minnesota Timberwolves*",
+        "wins": 49,
+        "losses": 33,
+        "win_pct": 0.598
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Portland Trail Blazers",
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Utah Jazz",
+        "wins": 17,
+        "losses": 65,
+        "win_pct": 0.207
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Los Angeles Lakers*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Los Angeles Clippers*",
+        "wins": 50,
+        "losses": 32,
+        "win_pct": 0.61
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Golden State Warriors*",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Sacramento Kings",
+        "wins": 40,
+        "losses": 42,
+        "win_pct": 0.488
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Phoenix Suns",
+        "wins": 36,
+        "losses": 46,
+        "win_pct": 0.439
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Houston Rockets*",
+        "wins": 52,
+        "losses": 30,
+        "win_pct": 0.634
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Memphis Grizzlies*",
+        "wins": 48,
+        "losses": 34,
+        "win_pct": 0.585
+    },
+    {
+        "conference": "Divs_W",
+        "team": "Dallas Mavericks",
+        "wins": 39,
+        "losses": 43,
+        "win_pct": 0.476
+    },
+    {
+        "conference": "Divs_W",
+        "team": "San Antonio Spurs",
+        "wins": 34,
+        "losses": 48,
+        "win_pct": 0.415
+    },
+    {
+        "conference": "Divs_W",
+        "team": "New Orleans Pelicans",
+        "wins": 21,
+        "losses": 61,
+        "win_pct": 0.256
+    }
+]
